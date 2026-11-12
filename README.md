@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# Hey, I'm Luiz Felipe!
-
 ### Software Development Student | Aspiring Full Stack Developer
 
 `Turning ideas into code, one commit at a time.`
