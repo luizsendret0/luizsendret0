@@ -48,15 +48,25 @@
 
 ### GitHub Statistics
 
+
 <h3 align="center">GitHub Statistics</h3>
 
 <div align="center">
 
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=luizsendret0&show_icons=true&theme=tokyonight" />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=luizsendret0&show_icons=true&theme=tokyonight"
+    alt="Luiz Felipe's GitHub Stats"
+  />
 
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luizsendret0&layout=compact&theme=tokyonight" />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=luizsendret0&layout=compact&theme=tokyonight"
+    alt="Most Used Languages"
+  />
 
 </div>
+
 
 
 ---
