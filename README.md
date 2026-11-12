@@ -1,11 +1,13 @@
 
 <div align="center">
 
+# Luiz Felipe
+
 ### Software Development Student | Aspiring Full Stack Developer
 
-`Turning ideas into code, one commit at a time.`
+Building applications, learning new technologies, and turning ideas into code.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Development+Student;Aspiring+Full+Stack+Developer;Always+Learning+Something+New)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizsendret0)
 
 </div>
 
@@ -13,12 +15,12 @@
 
 ### About Me
 
+I'm a **Software Development student** from Brazil, focused on building practical solutions and continuously improving my programming skills.
+
 - Currently studying **Systems Development**
-- Building web applications using **HTML, CSS, JavaScript, PHP, and MySQL**
-- Improving my skills in **Full Stack Development**
-- Interested in **Back-end Development, Databases, and Software Engineering**
-- Focused on building real-world projects and expanding my technical knowledge
-- Based in **Santa Catarina, Brazil**
+- Focused on **Full Stack Web Development**
+- Interested in **Back-end Development and Software Engineering**
+- Learning through hands-on projects and real-world challenges
 
 ---
 
@@ -26,69 +28,39 @@
 
 <div align="center">
 
-**Languages & Web Development**
+**Languages & Technologies**
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,c,mysql&theme=dark" />
 
-<br/><br/>
+<br><br>
 
-**Tools & Development Environment**
+**Tools & Environment**
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+---
+
+### GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=luizsendret0&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luizsendret0&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### GitHub Statistics
-
-
-<h3 align="center">GitHub Statistics</h3>
-
 <div align="center">
 
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=luizsendret0&show_icons=true&theme=tokyonight"
-    alt="Luiz Felipe's GitHub Stats"
-  />
+**Always learning. Always building.**
 
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=luizsendret0&layout=compact&theme=tokyonight"
-    alt="Most Used Languages"
-  />
-
-</div>
-
-
-
----
-
-### Currently Working On
-
-```javascript id="t9w1fu"
-const developer = {
-  name: "Luiz Felipe",
-  location: "Santa Catarina, Brazil",
-  education: "Systems Development",
-  skills: ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "C"],
-  interests: ["Full Stack", "Back-end", "Software Engineering"],
-  currentFocus: "Building real-world applications",
-  goal: "Become a professional software developer"
-};
-```
-
----
-
-<div align="center">
-
-### Code. Learn. Build. Repeat.
-
-Thanks for visiting my profile.
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
